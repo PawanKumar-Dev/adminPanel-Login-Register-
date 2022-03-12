@@ -1,0 +1,31 @@
+/* Custom page CSS
+-------------------------------------------------- */
+body {
+  background-image: url('../background1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.body-bg {
+  background-image: url('../background3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.box {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.bg-teal {
+  background-color: teal;
+}
+
+
+.form-label {
+  color: #fff;
+}
